@@ -1,0 +1,12 @@
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\bin\Release\net8.0\HRMS.Domain.deps.json
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\bin\Release\net8.0\HRMS.Domain.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\bin\Release\net8.0\HRMS.Domain.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\HRMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\HRMS.Domain.AssemblyInfoInputs.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\HRMS.Domain.AssemblyInfo.cs
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\HRMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\HRMS.Domain.sourcelink.json
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\HRMS.Domain.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\refint\HRMS.Domain.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\HRMS.Domain.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Domain\obj\Release\net8.0\ref\HRMS.Domain.dll
