@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  hrms.postgres:
+    image: postgres:16-alpine
+    container_name: hrms_postgres
+    environment:
+      POSTGRES_DB: hrms_db
+      POSTGRES_USER: hrms_user
+      POSTGRES_PASSWORD: hrms_password_123
+    ports:
+      - "5432:5432"
+    volumes:
+      - hrms_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hrms_user -d hrms_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  hrms.api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hrms_api
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=hrms.postgres;Port=5432;Database=hrms_db;Username=hrms_user;Password=hrms_password_123
+      - JwtSettings__SecretKey=SUPER_SECRET_KEY_FOR_HRMS_SAAS_PROJECT_2026_JWT_MUST_BE_LONG
+      - JwtSettings__Issuer=HRMS_API
+      - JwtSettings__Audience=HRMS_CLIENTS
+    depends_on:
+      hrms.postgres:
+        condition: service_healthy
+
+volumes:
+  hrms_pgdata:
