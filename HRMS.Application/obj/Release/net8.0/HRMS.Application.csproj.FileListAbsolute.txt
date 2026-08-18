@@ -1,0 +1,16 @@
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\bin\Release\net8.0\HRMS.Application.deps.json
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\bin\Release\net8.0\HRMS.Application.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\bin\Release\net8.0\HRMS.Application.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\bin\Release\net8.0\HRMS.Domain.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\bin\Release\net8.0\HRMS.Domain.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.csproj.AssemblyReference.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.AssemblyInfoInputs.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.AssemblyInfo.cs
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.sourcelink.json
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.App.83A5D7FA.Up2Date
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\refint\HRMS.Application.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\HRMS.Application.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Application\obj\Release\net8.0\ref\HRMS.Application.dll
