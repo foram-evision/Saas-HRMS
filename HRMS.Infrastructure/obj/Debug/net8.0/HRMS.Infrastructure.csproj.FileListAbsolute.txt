@@ -1,0 +1,60 @@
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.deps.json
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.runtimeconfig.json
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.pdb
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Application.dll
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Domain.dll
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Domain.pdb
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Application.pdb
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.AssemblyInfo.cs
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.sourcelink.json
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Inf.BA81F186.Up2Date
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\refint\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.pdb
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.genruntimeconfig.cache
+C:\Users\foram\source\repos\Final_Latest\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\ref\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.deps.json
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Application.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Domain.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Domain.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Application.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.AssemblyInfo.cs
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.sourcelink.json
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Inf.BA81F186.Up2Date
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\refint\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.pdb
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\ref\HRMS.Infrastructure.dll
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.runtimeconfig.json
+C:\Users\foram\source\repos\NEWW\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.genruntimeconfig.cache
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.deps.json
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.runtimeconfig.json
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.dll
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Infrastructure.pdb
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Application.dll
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Domain.dll
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Domain.pdb
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\bin\Debug\net8.0\HRMS.Application.pdb
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.AssemblyInfo.cs
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.sourcelink.json
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Inf.BA81F186.Up2Date
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.dll
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\refint\HRMS.Infrastructure.dll
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.pdb
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.genruntimeconfig.cache
+C:\Users\foram\Desktop\HRMS Saas\HRMS_LATEST\HRMS.Infrastructure\obj\Debug\net8.0\ref\HRMS.Infrastructure.dll
